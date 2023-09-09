@@ -21,6 +21,14 @@
     {
       "refer": "blog.anheyu.com",
       "reason": "anzhiyu"
+    },
+    {
+      "refer": "www.qcqx.cn",
+      "reason": "Chuckle"
+    },
+    {
+      "refer": "qcqx.cn",
+      "reason": "Chuckle"
     }
   ],
   "allowEmptyReferer": false

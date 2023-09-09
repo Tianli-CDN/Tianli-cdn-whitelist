@@ -1,4 +1,4 @@
-# Tiancdn白名单目录（后端：https://github.com/Tianli-CDN/cdn-server）
+# Tiancdn白名单目录（后端：https://github.com/Tianli-CDN/cdn-server ）
 
 每2小时与服务器进行一次白名单同步
 

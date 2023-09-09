@@ -17,6 +17,10 @@
     {
       "refer": "marcus233.top",
       "reason": "Marcus"
+    },
+    {
+      "refer": "blog.anheyu.com",
+      "reason": "anzhiyu"
     }
   ],
   "allowEmptyReferer": false

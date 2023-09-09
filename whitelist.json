@@ -1,0 +1,19 @@
+{
+  "pathlist": [
+    {
+      "paths": [".*"],
+      "reason": "默认放行所有"
+    }
+  ],
+  "referlist": [
+    {
+      "refer": "tianli0.top",
+      "reason": "Tianli"
+    },
+    {
+      "refer": "tianli-blog.club",
+      "reason": "Tianli"
+    }
+  ],
+  "allowEmptyReferer": false
+}

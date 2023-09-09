@@ -1,7 +1,7 @@
 # Tiancdn白名单目录  [![afadian](https://img.shields.io/badge/爱发电-@Tianli0-8F6ADB?style=flat-square)](https://afdian.net/@Tianli0)
 
 
-后端：https://github.com/Tianli-CDN/cdn-server （来个Star,QAQ）
+后端：https://github.com/Tianli-CDN/cdn-server （来个Star,QAQ,不要...不要逼我求你！！！）
 
 每2小时与服务器进行一次白名单同步
 
@@ -15,7 +15,7 @@
 
 3. 白名单条件是什么？
 
-   网站不违规违法，且github或者博客地址要有显著贡献，例如原创文章数量以及开源仓库数量。
+   网站不违规违法，且github或者博客地址要有显著贡献，例如原创文章数量以及开源仓库数量。（无固定标准）
 
 ## 图片处理
 
@@ -40,7 +40,7 @@
 
 4. 服务器将自行对文件内容进行审核，如果出现违规（包括图片与词），该文件会被自动列入黑名单。
 
-## 当前缓存周期：24H
+## 当前缓存周期：6H（指定版本号为7D）
 
 ## 清除缓存API：
 
@@ -49,4 +49,5 @@ GET [http://cdn1.tianli0.top/api/clear_cache?path=/gh/114514](http://cdn1.tianli
 path：路径
 
 哦对了，饿饿！！！
+
 

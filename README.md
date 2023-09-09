@@ -1,7 +1,7 @@
 # Tiancdn白名单目录  [![afadian](https://img.shields.io/badge/爱发电-@Tianli0-8F6ADB?style=flat-square)](https://afdian.net/@Tianli0)
 
 
-后端：https://github.com/Tianli-CDN/cdn-server
+后端：https://github.com/Tianli-CDN/cdn-server （来个Star,QAQ）
 
 每2小时与服务器进行一次白名单同步
 

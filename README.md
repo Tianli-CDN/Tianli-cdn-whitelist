@@ -36,3 +36,12 @@
    ```
 
 4. 服务器将自行对文件内容进行审核，如果出现违规（包括图片与词），该文件会被自动列入黑名单。
+
+## 当前缓存周期：24H
+
+## 清除缓存API：
+
+GET [http://cdn1.tianli0.top/api/clear_cache?path=/gh/114514](http://cdn1.tianli0.top/api/clear_cache?path=/gh/114514)
+
+path：路径
+

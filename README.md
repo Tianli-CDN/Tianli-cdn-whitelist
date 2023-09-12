@@ -44,7 +44,7 @@
 
 ## 清除缓存API：
 
-GET [http://cdn1.tianli0.top/api/clear_cache?path=/gh/114514](http://cdn1.tianli0.top/api/clear_cache?path=/gh/114514)
+POST [http://cdn1.tianli0.top/api/clear_cache?path=/gh/114514](http://cdn1.tianli0.top/api/clear_cache?path=/gh/114514)
 
 path：路径
 

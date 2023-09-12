@@ -45,6 +45,18 @@
     {
       "refer": "qcqx.cn",
       "reason": "Chuckle"
+    },
+    {
+      "refer": "www.mk1.io",
+      "reason": "Ray"
+    },
+    {
+      "refer": "mk1.io",
+      "reason": "Ray"
+    },
+    {
+      "refer": "blog.mk1.io",
+      "reason": "Ray"
     }
   ],
   "allowEmptyReferer": false

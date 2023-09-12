@@ -57,6 +57,14 @@
     {
       "refer": "blog.mk1.io",
       "reason": "Ray"
+    },
+    {
+      "refer": "noionion.top",
+      "reason": "noionion"
+    },
+    {
+      "refer": "noionion.cn",
+      "reason": "noionion"
     }
   ],
   "allowEmptyReferer": false

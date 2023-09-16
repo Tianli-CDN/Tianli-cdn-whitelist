@@ -65,6 +65,10 @@
     {
       "refer": "noionion.cn",
       "reason": "noionion"
+    },
+    {
+      "refer": "blog.hesiy.cn",
+      "reason": "FloatSheep"
     }
   ],
   "allowEmptyReferer": false

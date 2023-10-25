@@ -3,8 +3,6 @@
 
 后端：https://github.com/Tianli-CDN/cdn-server （来个Star,QAQ,不要...不要逼我求你！！！）
 
-每2小时与服务器进行一次白名单同步
-
 1. 如何使用？
 
    与往常一样。

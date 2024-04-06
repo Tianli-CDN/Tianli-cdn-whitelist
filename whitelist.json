@@ -69,6 +69,10 @@
     {
       "refer": "blog.hesiy.cn",
       "reason": "FloatSheep"
+    },
+    {
+      "refer": "blog.opeach.cn",
+      "reason": "HiPeach"
     }
   ],
   "allowEmptyReferer": false

@@ -73,6 +73,10 @@
     {
       "refer": "blog.opeach.cn",
       "reason": "HiPeach"
+    },
+    {
+      "refer": "blog.june-pj.cn",
+      "reason": "June"
     }
   ],
   "allowEmptyReferer": false

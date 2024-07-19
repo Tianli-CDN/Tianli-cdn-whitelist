@@ -77,6 +77,14 @@
     {
       "refer": "blog.june-pj.cn",
       "reason": "June"
+    },
+    {
+      "refer": "git.blog.hope-now.top",
+      "reason": "SharwOrange"
+    },
+    {
+      "refer": "blog.hope-now.top:8443",
+      "reason": "SharwOrange"
     }
   ],
   "allowEmptyReferer": false

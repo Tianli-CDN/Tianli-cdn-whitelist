@@ -77,6 +77,10 @@
     {
       "refer": "blog.june-pj.cn",
       "reason": "June"
+    },
+    {
+      "refer": "kmar.top",
+      "reason": "kmar"
     }
   ],
   "allowEmptyReferer": false

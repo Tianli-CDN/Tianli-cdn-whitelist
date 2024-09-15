@@ -85,6 +85,10 @@
     {
       "refer": "redish101.top",
       "reason": "Redish101"
+    },
+    {
+      "refer": "blog.yaria.top",
+      "reason": "Ariasaka"
     }
   ],
   "allowEmptyReferer": false

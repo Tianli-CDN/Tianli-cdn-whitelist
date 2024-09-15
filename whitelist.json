@@ -81,6 +81,10 @@
     {
       "refer": "kmar.top",
       "reason": "kmar"
+    },
+    {
+      "refer": "redish101.top",
+      "reason": "Redish101"
     }
   ],
   "allowEmptyReferer": false

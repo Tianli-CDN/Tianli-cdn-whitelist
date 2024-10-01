@@ -89,6 +89,10 @@
     {
       "refer": "blog.yaria.top",
       "reason": "Ariasaka"
+    },
+    {
+      "refer": "log.linsnow.cn",
+      "reason": "L1nSn0w"
     }
   ],
   "allowEmptyReferer": false
